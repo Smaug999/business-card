@@ -1,11 +1,17 @@
+
+
+.lexend {
+  font-family: "Lexend Exa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 body {
     margin: 20px;
-    /*
-    Challenge:
-    Find a web safe font you like, and add it 
-    to your card.
-    */
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    
+    font-family: "Lexend Exa", sans-serif;
+    font-weight:400;
 }
 
 .avatar {
